@@ -1,0 +1,5 @@
+﻿Seleksi,Crossover,run,run_valid,fitness_terbaik_maks,fitness_terbaik_rata,fitness_rata_akhir_rata,gen_valid_pertama_rata
+roulette,satu_titik,10,10,1.0,1.0,0.2167182942057942,12.8
+roulette,uniform,10,10,1.0,1.0,0.20637981446657916,12.9
+turnamen,satu_titik,10,10,1.0,1.0,0.28349094516594514,10.0
+turnamen,uniform,10,10,1.0,1.0,0.2258482364857365,8.7
